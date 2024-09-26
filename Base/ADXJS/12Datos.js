@@ -13,4 +13,6 @@ let jeisson=(x,a)=>{
 };
 
 console.log(jeisson(3,5));
+console.log(jeisson(3,5));
+console.log(jeisson(3,5));
 
