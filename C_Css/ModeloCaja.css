@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Asegúrate de que el contenedor tenga altura */
+}
+
+.model {
+    background-color: red;
+    text-align: center;
+    width: 100vh;
+    height: 50vh;
+    color: white;
+    font-size: 15rem;
+    align-content: center;
+    padding: 20px rgb(200, 200, 214);
+    border:  6px solid black;
+    box-sizing: border-box;
+    margin: 20px ;
+}

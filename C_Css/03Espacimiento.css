@@ -1,0 +1,54 @@
+.espacimiento {
+    /* white-space: pre; */
+    white-space: nowrap;
+}
+
+.palabra-largas{
+    word-wrap: break-word;
+}
+
+.envoltura{
+    /* text-wrap: wrap; */
+    /* text-wrap: nowrap;
+     */
+    /* text-wrap: balance; */
+    text-wrap: pretty;
+}
+
+span{
+    /* letter-spacing: 15px;
+     */
+     word-spacing: 2px;
+}
+
+.texto-sombra{
+    /* text-shadow: 20px 13px 4px red ; */
+    text-decoration: overline;
+}
+
+em{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.titulos{
+    background-color: red;
+    height: 60px;
+    display: flex;
+    width: 100%;
+}
+
+.titulo2{
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    opacity: 0.7;
+    
+}

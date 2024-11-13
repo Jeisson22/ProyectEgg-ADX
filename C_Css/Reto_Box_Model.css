@@ -1,0 +1,45 @@
+body{
+    background-color: orangered;
+    text-align: center;
+}
+
+
+h1 {
+    display: inline-block; /* Cambia a inline-block */
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    align-content: center;
+    border-bottom: 5px solid white;
+
+}
+
+main{
+    display: flex;
+    height: 75vh;
+    margin-top: 30px;
+    padding: 40px;
+    flex-direction: column;
+    background-color: white;
+}
+
+.producto1, .producto2{
+    display: flex;
+    background-color: whitesmoke;
+    border: 1px solid rgb(82, 77, 77);
+    box-sizing: border-box;
+    margin: 15px 5px;
+    /* align-items: start; */
+    /* align-content: start; */
+}
+
+.config{
+    padding: 20px;
+    align-content: start;
+    text-align: start;
+}
+
+.foo{
+    padding: 10px;
+}

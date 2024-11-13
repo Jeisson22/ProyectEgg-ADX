@@ -1,0 +1,47 @@
+body{
+    margin: 0px 0px;
+    /* padding: 0; */
+}
+header{
+    background-color: rgb(116, 16, 16);
+    margin:0;
+    height: 80px;
+    
+}
+
+h1{
+    margin: 0 0;
+    text-align: center;
+    padding: 20px;
+    text-wrap: wrap;
+    color: white;
+}
+
+main{
+    margin-top: 42px;
+    height: 79vh;
+}
+
+em{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    opacity: 0.8;
+    margin-bottom: 10vh;
+    align-content: center;
+}
+
+footer{
+    background-color: black;
+    height: 60px;
+}
+
+.foo{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
